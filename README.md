@@ -24,7 +24,7 @@
     
 <h1>🌟 Live link</h1>
   
-  [See live project here]()
+  [See live project here](https://organic-vegetables-ecommerce.netlify.app/)
   
 <h1>👨‍💻 Tech stack</h1>
 
