@@ -171,7 +171,7 @@ for (let i = 0; i < carts.length; i++) {
           Basket Total
           </h4>
           <h4 class='basketTotal'>
-          ₹${cartCost}
+          $${cartCost}
           </h4>
         </div>
       `;
